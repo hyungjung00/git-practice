@@ -1,0 +1,11 @@
+# setup scripts (local only)
+setup.sh
+setup.bat
+
+# private files
+secret.txt
+*.env
+
+# python / OS
+__pycache__/
+.DS_Store
