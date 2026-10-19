@@ -4,3 +4,4 @@ home
 lecture
 exam
 lab
+new
