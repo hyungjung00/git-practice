@@ -1,0 +1,6 @@
+Lecture 7 - Git
+- git init / status / add / commit
+- .gitignore
+- git rm --cached, git mv
+- git restore --staged, git restore
+- git remote add / git push
